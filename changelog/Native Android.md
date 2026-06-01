@@ -1,15 +1,9 @@
 # Native Android Changelog
 
 {% updates format="full" %}
-{% update date="2026-06-01" tags="added,improved,fixes" %}
+{% update date="2026-06-01" tags="added,improved,fixes,admob,google-ad-manager" %}
 
 ## v2.1.9 - Latest
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)`
-{% endhint %}
 
 #### Added
 
@@ -42,15 +36,9 @@
 * Improved error handling and reporting across SDK initialization and mediation setup flows.
 
 {% endupdate %}
-{% update date="2026-05-02" tags="improved" %}
+{% update date="2026-05-02" tags="improved,admob,google-ad-manager" %}
 
 ## v2.1.8
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)`
-{% endhint %}
 
 #### Improved
 
@@ -60,15 +48,9 @@
 * Custom Adapter size remains approximately ~130 KB.
 
 {% endupdate %}
-{% update date="2026-04-28" tags="improved" %}
+{% update date="2026-04-28" tags="improved,admob,google-ad-manager" %}
 
 ## v2.1.7
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)`
-{% endhint %}
 
 #### Improved
 
@@ -79,15 +61,9 @@
 * Continued using the existing AWS backend endpoint.
 
 {% endupdate %}
-{% update date="2026-04-13" tags="fixes,removed" %}
+{% update date="2026-04-13" tags="fixes,removed,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
 ## v2.1.5
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
-{% endhint %}
 
 #### Fixed
 
@@ -99,45 +75,27 @@
 * Deprecated `placementName` logic.
 
 {% endupdate %}
-{% update date="2026-04-10" tags="added" %}
+{% update date="2026-04-10" tags="added,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
 ## v2.1.4
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
-{% endhint %}
 
 #### Added
 
 * Added placement flag support for placement name tracking in the Bid Request API.
 
 {% endupdate %}
-{% update date="2026-03-30" tags="fixes" %}
+{% update date="2026-03-30" tags="fixes,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
 ## v2.1.3
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
-{% endhint %}
 
 #### Fixed
 
 * Resolved an issue where a missing context caused application crashes within the adapter.
 
 {% endupdate %}
-{% update date="2026-03-26" tags="added" %}
+{% update date="2026-03-26" tags="added,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
 ## v2.1.2
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
-{% endhint %}
 
 #### Added
 
@@ -145,30 +103,18 @@
 * Dynamic ad size identifiers are now submitted to the backend for tracking.
 
 {% endupdate %}
-{% update date="2026-03-24" tags="fixes" %}
+{% update date="2026-03-24" tags="fixes,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
 ## v2.1.1
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
-{% endhint %}
 
 #### Fixed
 
 * Resolved SDK version mismatch issues.
 
 {% endupdate %}
-{% update date="2026-03-20" tags="added,improved" %}
+{% update date="2026-03-20" tags="added,improved,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
 ## v2.1.0
-
-{% hint style="info" %}
-**Supported Mediations**
-
-`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
-{% endhint %}
 
 #### Added
 
