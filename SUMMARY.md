@@ -9,9 +9,5 @@
 * [Native Android](<changelog/Native Android.md>)
 * [Native iOS](<changelog/Native iOS.md>)
 * [Unity](changelog/Unity.md)
-### Flutter
-
-* [AdMob & Google Ad Manager (GAM)](<changelog/Flutter - AdMob & Google Ad Manager (GAM).md>)
-* [AppLovin MAX](<changelog/Flutter - AppLovin MAX.md>)
-* [ironSource LevelPlay](<changelog/Flutter - ironSource LevelPlay.md>)
+* [Flutter](changelog/Flutter.md)
 * [Cocos](changelog/Cocos.md)
