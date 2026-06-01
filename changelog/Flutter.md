@@ -1,26 +1,58 @@
 # Flutter Changelog
 
-## vX.X.X
+{% updates format="full" %}
+{% update date="2026-01-01" tags="improved,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
-Release Date:
+## v0.0.12 - Latest
 
-Release Status:
-- Stable
-- Beta
-- Experimental
+#### Improved
 
-Supported Mediations:
-- AdMob
-- Google Ad Manager (GAM)
-- AppLovin MAX
-- LevelPlay
+* Reduced Flutter adapter package size for improved application footprint.
+* Updated underlying Native Android adapter dependency to v2.1.7.
 
-### Added
+{% endupdate %}
+{% update date="2026-01-01" tags="fixes,admob,google-ad-manager,applovin,ironsource-levelplay" %}
 
-### Improved
+## v0.0.11
 
-### Fixed
+#### Fixed
 
-### Removed
+* Resolved Gradle version compatibility issues.
+* Updated underlying Native Android adapter dependency to v2.1.5.
 
-### Notes
+{% endupdate %}
+{% update date="2026-01-01" tags="fixes,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+
+## v0.0.10
+
+#### Fixed
+
+* Resolved Android build failures in Flutter projects caused by incorrect Gradle configuration.
+* Fixed the "unknown property 'android'" error during plugin evaluation.
+
+{% endupdate %}
+{% update date="2026-01-01" tags="added,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+
+## v0.0.9
+
+#### Added
+
+* Added support for Dart 3.6.
+
+{% endupdate %}
+{% update date="2026-01-01" tags="added,improved,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+
+## v0.0.8
+
+#### Added
+
+* Standardized adapter architecture across all supported mediation partners.
+
+#### Improved
+
+* Unified naming conventions for improved clarity and consistency.
+* Optimized ad request-to-response flow for faster and more reliable mediation handling.
+* Enhanced placement handling to support flexible and scalable configurations.
+
+{% endupdate %}
+{% endupdates %}
