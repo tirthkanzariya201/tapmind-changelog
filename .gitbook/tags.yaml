@@ -1,0 +1,12 @@
+- tag: admob
+  label: AdMob
+  color: red
+- tag: applovin
+  label: Applovin
+  color: pink
+- tag: google-ad-manager
+  label: Google Ad Manager
+  color: purple
+- tag: ironsource-levelplay
+  label: Ironsource - Levelplay
+  color: green

@@ -6,8 +6,8 @@
 
 ## Changelogs
 
-* [Native Android](changelog/Native%20Android.md)
-* [Native iOS](changelog/Native%20iOS.md)
+* [Native Android](<changelog/Native Android.md>)
+* [Native iOS](<changelog/Native iOS.md>)
 * [Unity](changelog/Unity.md)
 * [Flutter](changelog/Flutter.md)
 * [Cocos](changelog/Cocos.md)
