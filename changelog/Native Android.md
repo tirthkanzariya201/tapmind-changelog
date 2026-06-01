@@ -5,6 +5,11 @@
 
 ## v2.1.9 - Latest
 
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+
 #### Added
 
 * Introduced SDK Crash Prevention Guard Layer to improve SDK stability and prevent common initialization failures.
@@ -40,6 +45,11 @@
 
 ## v2.1.8
 
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+
 #### Improved
 
 * Updated backend endpoint from AWS infrastructure to Akamai infrastructure.
@@ -51,6 +61,11 @@
 {% update date="2026-04-28" tags="improved" %}
 
 ## v2.1.7
+
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
 
 #### Improved
 
@@ -64,6 +79,13 @@
 {% update date="2026-04-13" tags="fixes,removed" %}
 
 ## v2.1.5
+
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+* AppLovin MAX
+* LevelPlay
 
 #### Fixed
 
@@ -79,6 +101,13 @@
 
 ## v2.1.4
 
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+* AppLovin MAX
+* LevelPlay
+
 #### Added
 
 * Added placement flag support for placement name tracking in the Bid Request API.
@@ -88,6 +117,13 @@
 
 ## v2.1.3
 
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+* AppLovin MAX
+* LevelPlay
+
 #### Fixed
 
 * Resolved an issue where a missing context caused application crashes within the adapter.
@@ -96,6 +132,13 @@
 {% update date="2026-03-26" tags="added" %}
 
 ## v2.1.2
+
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+* AppLovin MAX
+* LevelPlay
 
 #### Added
 
@@ -107,6 +150,13 @@
 
 ## v2.1.1
 
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+* AppLovin MAX
+* LevelPlay
+
 #### Fixed
 
 * Resolved SDK version mismatch issues.
@@ -115,6 +165,13 @@
 {% update date="2026-03-20" tags="added,improved" %}
 
 ## v2.1.0
+
+#### Supported Mediations
+
+* AdMob
+* Google Ad Manager (GAM)
+* AppLovin MAX
+* LevelPlay
 
 #### Added
 
