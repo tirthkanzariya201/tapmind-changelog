@@ -1,7 +1,7 @@
-# Flutter Changelog
+# Flutter - AdMob & Google Ad Manager (GAM)
 
 {% updates format="full" %}
-{% update date="2026-01-01" tags="improved,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+{% update date="2026-01-01" tags="improved,admob,google-ad-manager" %}
 
 ## v0.0.12 - Latest
 
@@ -11,7 +11,7 @@
 * Updated underlying Native Android adapter dependency to v2.1.7.
 
 {% endupdate %}
-{% update date="2026-01-01" tags="fixes,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+{% update date="2026-01-01" tags="fixes,admob,google-ad-manager" %}
 
 ## v0.0.11
 
@@ -21,7 +21,7 @@
 * Updated underlying Native Android adapter dependency to v2.1.5.
 
 {% endupdate %}
-{% update date="2026-01-01" tags="fixes,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+{% update date="2026-01-01" tags="fixes,admob,google-ad-manager" %}
 
 ## v0.0.10
 
@@ -31,7 +31,7 @@
 * Fixed the "unknown property 'android'" error during plugin evaluation.
 
 {% endupdate %}
-{% update date="2026-01-01" tags="added,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+{% update date="2026-01-01" tags="added,admob,google-ad-manager" %}
 
 ## v0.0.9
 
@@ -40,7 +40,7 @@
 * Added support for Dart 3.6.
 
 {% endupdate %}
-{% update date="2026-01-01" tags="added,improved,admob,google-ad-manager,applovin,ironsource-levelplay" %}
+{% update date="2026-01-01" tags="added,improved,admob,google-ad-manager" %}
 
 ## v0.0.8
 

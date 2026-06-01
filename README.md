@@ -13,7 +13,7 @@ Changelogs are maintained **per platform**, one file each under `changelog/`:
 | [Native Android.md](changelog/Native%20Android.md) | Native Android |
 | [Native iOS.md](changelog/Native%20iOS.md) | Native iOS |
 | [Unity.md](changelog/Unity.md) | Unity |
-| [Flutter.md](changelog/Flutter.md) | Flutter |
+| Flutter (per mediation) | [AdMob & GAM](<changelog/Flutter - AdMob & Google Ad Manager (GAM).md>), [AppLovin MAX](<changelog/Flutter - AppLovin MAX.md>), [ironSource LevelPlay](<changelog/Flutter - ironSource LevelPlay.md>) |
 | [Cocos.md](changelog/Cocos.md) | Cocos |
 
 Each file documents every public release for that platform in reverse chronological order (newest first).
