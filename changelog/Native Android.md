@@ -5,10 +5,11 @@
 
 ## v2.1.9 - Latest
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
+`AdMob` `Google Ad Manager (GAM)`
+{% endhint %}
 
 #### Added
 
@@ -45,10 +46,11 @@
 
 ## v2.1.8
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
+`AdMob` `Google Ad Manager (GAM)`
+{% endhint %}
 
 #### Improved
 
@@ -62,10 +64,11 @@
 
 ## v2.1.7
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
+`AdMob` `Google Ad Manager (GAM)`
+{% endhint %}
 
 #### Improved
 
@@ -80,12 +83,11 @@
 
 ## v2.1.5
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
-* AppLovin MAX
-* LevelPlay
+`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
+{% endhint %}
 
 #### Fixed
 
@@ -101,12 +103,11 @@
 
 ## v2.1.4
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
-* AppLovin MAX
-* LevelPlay
+`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
+{% endhint %}
 
 #### Added
 
@@ -117,12 +118,11 @@
 
 ## v2.1.3
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
-* AppLovin MAX
-* LevelPlay
+`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
+{% endhint %}
 
 #### Fixed
 
@@ -133,12 +133,11 @@
 
 ## v2.1.2
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
-* AppLovin MAX
-* LevelPlay
+`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
+{% endhint %}
 
 #### Added
 
@@ -150,12 +149,11 @@
 
 ## v2.1.1
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
-* AppLovin MAX
-* LevelPlay
+`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
+{% endhint %}
 
 #### Fixed
 
@@ -166,12 +164,11 @@
 
 ## v2.1.0
 
-#### Supported Mediations
+{% hint style="info" %}
+**Supported Mediations**
 
-* AdMob
-* Google Ad Manager (GAM)
-* AppLovin MAX
-* LevelPlay
+`AdMob` `Google Ad Manager (GAM)` `AppLovin MAX` `ironSource LevelPlay`
+{% endhint %}
 
 #### Added
 
