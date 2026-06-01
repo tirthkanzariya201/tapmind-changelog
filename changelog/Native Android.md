@@ -1,9 +1,44 @@
 # Native Android Changelog
 
 {% updates format="full" %}
+{% update date="2026-06-01" tags="added,improved,fixes" %}
+
+## v2.1.9 - Latest
+
+#### Added
+
+* Introduced SDK Crash Prevention Guard Layer to improve SDK stability and prevent common initialization failures.
+* Added the following crash prevention guards:
+  * OS Version Check
+  * Double Initialization Protection
+  * Parameter Validation
+  * Google Play Services Availability Check
+  * Mediation SDK Compatibility Check
+  * Demand Partner Class Availability Check
+  * Initialization Thread Validation
+* Added backend error logging for SDK guard failures to improve diagnostics and monitoring.
+* Added Test Mode support to enable testing with dedicated test ad unit IDs.
+* Added privacy consent collection and propagation support for downstream ad network integrations.
+* Added new Google Ad Manager (GAM) adapter class names.
+
+#### Improved
+
+* Updated ad request handling to use Core Engine–provided ad sizes for Google Ad Manager (GAM) requests and demand partner ad fetching.
+* Reduced ad request response payload size to optimize bandwidth usage and lower backend serving costs.
+* Updated SDK serving APIs to use the latest backend serving domain infrastructure.
+* Updated Unity LevelPlay integration classes for improved compatibility.
+* Improved SDK initialization flow by skipping Google Mobile Ads (GMA) initialization when running under GAM or AdMob mediation to prevent duplicate initialization.
+* Enhanced SDK stability through proactive validation and runtime safeguards.
+
+#### Fixed
+
+* Prevented SDK crashes caused by invalid initialization states, unsupported environments, missing dependencies, and configuration issues.
+* Improved error handling and reporting across SDK initialization and mediation setup flows.
+
+{% endupdate %}
 {% update date="2026-05-02" tags="improved" %}
 
-## v2.1.8 - Latest
+## v2.1.8
 
 #### Improved
 
